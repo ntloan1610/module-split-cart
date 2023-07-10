@@ -1,5 +1,5 @@
 # module-split-cart-free
-Magento 2 Split Cart extension Free help customer to add multiple products with multiple categories to their cart, choose to pre-pay for some products in their cart.
+Split Cart extension for Magento 2 allow your customers to pick one or more items in their cart before heading to checkout.
 
 Please go to https://magehq.com/split-cart.html download free extension
 
