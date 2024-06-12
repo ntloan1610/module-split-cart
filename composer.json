@@ -1,0 +1,26 @@
+{
+  "name": "magehqm2/module-split-cart",
+  "description": "Split Cart for Magento 2",
+  "type": "magento2-module",
+  "minimum-stability": "dev",
+  "version": "1.0.0",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Magehqm2",
+      "email": "support@magehq.com",
+      "homepage": "https://www.magehq.com",
+      "role": "Technical Support"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Magehqm2\\SplitCart\\": ""
+    }
+  }
+}
